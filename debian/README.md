@@ -11,7 +11,12 @@ page](https://www.debian.org/releases/stable/debian-installer/)
 
 You can burn the image into a cd, or you can put it on an usb stick. There are
 many tutorials to learn how to do this, but in fact, and for new linux users,
-maybe "[linux live usb creator](http://www.linuxliveusb.com/)" is a very good
-option. Normally, new linux users come from window$, so, this program runs on
+maybe "[linux live usb creator](http://www.linuxliveusb.com/)", known as
+'lili', is a very good option. More than it, imho, is
+[UNetbootin](http://unetbootin.sourceforge.net/). It's multiplatform between
+others beneficts. [Unetbootin
+Wikipedia](https://en.wikipedia.org/wiki/UNetbootin).
+
+Normally, new linux users come from window$, so, this program runs on
 it. What this program does, is pick up an iso image of any linux distro, an
 puts it on a usb stick, making it bootable.
