@@ -17,8 +17,8 @@ maybe "[linux live usb creator](http://www.linuxliveusb.com/)", known as
 others beneficts. [Unetbootin
 Wikipedia](https://en.wikipedia.org/wiki/UNetbootin).
 
-Below is loaded a version of it, for win operating sytem. Please, in the pass
-of time, check official site for new verions.
+Above this readme, is loaded a version of it, for win operating sytem. Please, 
+in the pass of time, check official site for new verions.
 
 Normally, new linux users come from win operating systems, so, these programs run on
 it. What these program do, is pick up an iso image of some linux distros, an
