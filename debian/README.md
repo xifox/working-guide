@@ -16,6 +16,7 @@ can use that which comes with windows. Since XP, windows operating systems bring
 a disc manager application wich you can use to do the trick.
 
 ![test](https://github.com/xifox/working-guide/blob/master/debian/windm.gif)
+
 The above image is an example of two discs seen in this app.
 
 Move/resize/delete partition to have a portion of one disc free to install your
