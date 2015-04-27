@@ -17,7 +17,11 @@ a disc manager application wich you can use to do the trick.
 
 ![test](https://github.com/xifox/working-guide/blob/master/debian/windm.jpg)
 
-The above image is an example of two discs seen in this app.
+The above image is an example of two discs seen in this app. In the example
+above, first disc containing windows 7, was shrinked at aprox 1/3 of it
+original size. With the remaining space, there were created two partitions. The
+last one was left to use by windows to store documnts. The other one, was for
+debian.
 
 Move/resize/delete partition to have a portion of one disc free to install your
 new system.
