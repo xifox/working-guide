@@ -15,6 +15,8 @@ install a new system on there. Many tools are known to do this, such as
 can use that which comes with windows. Since XP, windows brings a disc manager
 wich can do the trick.
 
+![test](https://github.com/xifox/working-guide/blob/master/debian/windm.gif)
+
 #### Installation.
 
 First thing you need to do is download any of iso images to start your machine
@@ -39,8 +41,7 @@ Normally, new linux users come from win operating systems, so, these programs ru
 it. What these program do, is pick up an iso image of some linux distros, an
 puts it on a usb stick, making it bootable.
 
-![Bilby
-Stampede](https://github.com/xifox/working-guide/blob/master/debian/carcajada.png)
+![test](https://github.com/xifox/working-guide/blob/master/debian/carcajada.png)
 
 #### Usefull links
 
