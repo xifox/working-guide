@@ -17,6 +17,11 @@ wich can do the trick.
 
 ![test](https://github.com/xifox/working-guide/blob/master/debian/windm.gif)
 
+The above image is an example of two discs seen in this app.
+
+Move/resize/delete partition to have a portion of one disc free to install your
+new system.
+
 #### Installation.
 
 First thing you need to do is download any of iso images to start your machine
