@@ -13,7 +13,7 @@ Normally, win users need to reduce their system volume to create a new one to
 install a new system on there. Many tools are known to do this, such as
 [partition magic 8](https://duckduckgo.com/?q=partition+magic+8), but you also
 can use that which comes with windows. Since 7, windows operating systems bring
-a disc manager application wich you can use to do the trick.
+a disc manager application which you can use to do the trick.
 
 ![test](https://github.com/xifox/working-guide/blob/master/debian/windm.jpg)
 
