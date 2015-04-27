@@ -12,15 +12,17 @@ more sure.
 Normally, win users need to reduce their system volume to create a new one to
 install a new system on there. Many tools are known to do this, such as
 [partition magic 8](https://duckduckgo.com/?q=partition+magic+8), but you also
-can use that which comes with windows. Since XP, windows operating systems bring
+can use that which comes with windows. Since 7, windows operating systems bring
 a disc manager application wich you can use to do the trick.
+
+[![fs](http://img.youtube.com/vi/vTewGX67vu0/0.jpg)](http://www.youtube.com/watch?v=vTewGX67vu0)
 
 ![test](https://github.com/xifox/working-guide/blob/master/debian/windm.jpg)
 
-The above image is an example of two discs seen in this app. In the example
-above, first disc containing windows 7, was shrinked at aprox 1/3 of it
+The above image is an example of two discs seen in this app. In this example,
+first disc containing windows 7, was shrinked at aprox 1/3 of its
 original size. With the remaining space, there were created two partitions. The
-last one was left to use by windows to store documnts. The other one, was for
+last one was left to use by windows to store documents. The other one, was for
 debian.
 
 Move/resize/delete partition to have a portion of one disc free to install your
