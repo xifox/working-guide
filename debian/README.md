@@ -9,6 +9,10 @@ debian. You may want to check [online
 manual](https://www.debian.org/releases/stable/installmanual), in the section
 corresponding to your machine's architecture, system requirements section to be
 more sure.
+Normally, win users need to reduce their system volume to create a new one to
+install a new system on there. Many tools are known to do this, such as
+[partition magic 8](https://duckduckgo.com/?q=partition+magic+8), but you also
+can use that which comes windows.
 
 #### Installation.
 
