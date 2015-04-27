@@ -23,3 +23,6 @@ in the pass of time, check official site for new verions.
 Normally, new linux users come from win operating systems, so, these programs run on
 it. What these program do, is pick up an iso image of some linux distros, an
 puts it on a usb stick, making it bootable.
+
+![Bilby
+Stampede](https://github.com/xifox/working-guide/blob/master/debian/carcajada.png)
