@@ -12,11 +12,10 @@ more sure.
 Normally, win users need to reduce their system volume to create a new one to
 install a new system on there. Many tools are known to do this, such as
 [partition magic 8](https://duckduckgo.com/?q=partition+magic+8), but you also
-can use that which comes with windows. Since XP, windows brings a disc manager
-wich can do the trick.
+can use that which comes with windows. Since XP, windows operating systems bring
+a disc manager application wich you can use to do the trick.
 
 ![test](https://github.com/xifox/working-guide/blob/master/debian/windm.gif)
-
 The above image is an example of two discs seen in this app.
 
 Move/resize/delete partition to have a portion of one disc free to install your
@@ -46,7 +45,6 @@ Normally, new linux users come from win operating systems, so, these programs ru
 it. What these program do, is pick up an iso image of some linux distros, an
 puts it on a usb stick, making it bootable.
 
-![test](https://github.com/xifox/working-guide/blob/master/debian/carcajada.png)
 
 #### Usefull links
 
