@@ -12,7 +12,8 @@ more sure.
 Normally, win users need to reduce their system volume to create a new one to
 install a new system on there. Many tools are known to do this, such as
 [partition magic 8](https://duckduckgo.com/?q=partition+magic+8), but you also
-can use that which comes windows.
+can use that which comes with windows. Since XP, windows brings a disc manager
+wich can do the trick.
 
 #### Installation.
 
