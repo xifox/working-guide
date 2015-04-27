@@ -1,7 +1,17 @@
 ## working with debian
 This section is about installing debian for the first time, and/or solving some
 issues about it.
+
+#### Before Install
+
+You need to make sure you have space enough in some hdd drive to install
+debian. You may want to check [online
+manual](https://www.debian.org/releases/stable/installmanual), in the section
+corresponding to your machine's architecture, system requirements section to be
+more sure.
+
 #### Installation.
+
 First thing you need to do is download any of iso images to start your machine
 with the instalation of debian. I recomend for now `net-install'. It has the
 basic system enough to start the instalation. In it, you can choose later one
@@ -34,3 +44,5 @@ Stampede](https://github.com/xifox/working-guide/blob/master/debian/carcajada.pn
 [debian wiki](https://wiki.debian.org/)
 
 [Social Contract](https://www.debian.org/social_contract)
+
+[Mailing list support](https://www.debian.org/MailingLists/)
