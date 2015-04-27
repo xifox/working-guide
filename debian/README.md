@@ -15,7 +15,7 @@ install a new system on there. Many tools are known to do this, such as
 can use that which comes with windows. Since XP, windows operating systems bring
 a disc manager application wich you can use to do the trick.
 
-![test](https://github.com/xifox/working-guide/blob/master/debian/windm.gif)
+![test](https://github.com/xifox/working-guide/blob/master/debian/windm.jpg)
 
 The above image is an example of two discs seen in this app.
 
