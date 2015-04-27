@@ -26,3 +26,9 @@ puts it on a usb stick, making it bootable.
 
 ![Bilby
 Stampede](https://github.com/xifox/working-guide/blob/master/debian/carcajada.png)
+
+#### Usefull links
+
+[on line manual](https://www.debian.org/releases/stable/installmanual).
+[debian wiki](https://wiki.debian.org/)
+[Social Contract](https://www.debian.org/social_contract)
