@@ -54,6 +54,9 @@ Normally, new linux users come from win operating systems, so, these programs ru
 it. What these program do, is pick up an iso image of some linux distros, an
 puts it on a usb stick, making it bootable.
 
+[![fs](http://img.youtube.com/vi/Qmqaf805XzQ/0.jpg)](http://www.youtube.com/watch?v=Qmqaf805XzQ)
+
+
 
 #### Usefull links
 
